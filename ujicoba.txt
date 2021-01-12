@@ -1,3 +1,4 @@
 tujuan :
 -hanya sekedar untuk latihan 
 -semata mata tugas saja
+-ini hanya uji coba
